@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nxYpiy0zANpnoisHXzlVso48anGIB1R4Dg8IQUZRRmk=",
+  "Source": "ProxyServer",
+  "BasePath": "_content/ProxyServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
